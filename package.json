@@ -35,7 +35,7 @@
     "tap": "^10.0.1"
   },
   "peerDependencies": {
-    "hexo": "^3.2.2"
+    "hexo": "^6.0.0"
   },
   "pre-commit": "lint"
 }
